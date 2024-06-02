@@ -9,9 +9,6 @@ I'm currently a System and application operating technician student in Hungary<b
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px; text-align:center"/>
-
 ---
 
   ## 💰 You can help me by Donating
